@@ -14,7 +14,7 @@ La temporada ha terminado, pero tus inversiones continúan. Muchos de vosotros h
 <img
   width={250}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1"
-  src="/blog-images/long-term.png"
+  src="/images/long-term.png"
   />
 A diferencia de un fútbol fantasy, donde todo termina con el campeonato, en Futbit las acciones de tus jugadores se conservan año tras año. Esto permite a nuestros usuarios planificar estrategias de inversión a largo plazo y beneficiarse de la evolución y mejora en la carrera de los jugadores. Así, al final de cada temporada, aunque los dividendos se pausen, las acciones se mantienen activas en tu cartera, listas para generar beneficios en la próxima temporada.       
 </div>  
@@ -25,7 +25,7 @@ A diferencia de un fútbol fantasy, donde todo termina con el campeonato, en Fut
 <img
   width={250}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1"
-  src="/blog-images/multiplier.png"
+  src="/images/multiplier.png"
   />
 Uno de los incentivos más atractivos para mantener tus inversiones en Futbit es el multiplicador de dividendos. Al comenzar la nueva temporada, las acciones que se hayan mantenido en tu cartera durante más tiempo generarán mayores dividendos en comparación con las acciones compradas más recientemente. Este es un estímulo significativo para quienes apuestan por la consistencia y el rendimiento a largo plazo de sus jugadores.
 </div>
@@ -35,7 +35,7 @@ Uno de los incentivos más atractivos para mantener tus inversiones en Futbit es
 <img
   width={250}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1"
-  src="/blog-images/strategy.png"
+  src="/images/strategy.png"
   />
 Con las inversiones, es fundamental actuar antes de ver resultados positivos. Si crees en el potencial de un jugador o encuentras a un jugador infravalorado en el mercado, adquirir sus acciones cuanto antes te permitirá maximizar los beneficios a lo largo de las temporadas. Los precios de los jugadores tienden a aumentar al inicio de cada temporada cuando comienzan a mostrar su desempeño en el campo. Por lo tanto, comprar o aumentar tus participaciones durante verano entre temporadas puede ser una estrategia inteligente. Recuerda también que la paciencia es clave: si tu jugador crece en su carrera, su valor aumentará a largo plazo, a pesar de posibles fluctuaciones a corto plazo.
 </div>
@@ -46,7 +46,7 @@ Con las inversiones, es fundamental actuar antes de ver resultados positivos. Si
 <img
   width={250}
   className="h-fullrounded-lg object-cover object-center "
-  src="/blog-images/bonus.png"
+  src="/images/bonus.png"
   />
 
 

@@ -17,7 +17,7 @@ Pues bien, allí donde había 6 partidos y luego las fases eliminatorias desde o
 <img
   width={450}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1  mx-auto"
-  src="/blog-images/champions/images.jpg"
+  src="/images/champions/images.jpg"
   />
 
 La UEFA gana más partidos que comercializar, y ciertamente algunos de mayor nivel que en el antiguo formato, además de hacerte comulgar con que las últimas jornadas tienen mucha más emoción que antes y que los equipos menos poderosos tienen así más opciones. ¿Suficiente razón para el cambio? Puede que sí, puede que no, según dónde preguntes y a quién.
@@ -27,7 +27,7 @@ A mi entender la discusión está desviada convenientemente a barrizales que no 
 <img
   width={450}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1  mx-auto"
-  src="/blog-images/champions/uefa.jpg"
+  src="/images/champions/uefa.jpg"
   />
 
 Más ingresos para los clubes a raíz de mayores ingresos para el organizador. Ésa es la razón del cambio de formato. Repito, no se engañen, no se enfanguen en discusiones sobre si calendarios sobrecargados, lesiones y merma del espectáculo, anulación de choques intrascendentes, meritocracias deportivas, mayor o menor emocionalidad, etcétera. La inversión que hace la UEFA es para crecer económicamente, y hacerlo lo más rápido posible. El resto es secundario.
@@ -45,7 +45,7 @@ Teniendo esto claro. Valoremos si, al menos en esta primera fase, el usuario ha 
 <img
   width={450}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1  mx-auto"
-  src="/blog-images/champions/download.jpg"
+  src="/images/champions/download.jpg"
   />
 
 Dejémoslo aquí, creo que es un resultado justo. Mi conclusión es que el cambio no ha supuesto la revolución necesaria, ni los detalles positivos son suficiente justificación, pero creo que si se pule el formato puede llegar a hacerse algo más interesante. No mucho más, sin embargo, pues la principal cortapisa es que el objetivo no es el producto en si mismo sino lo que ese producto genera para ciertas arcas. 
@@ -57,5 +57,5 @@ No me malinterpreten, no abogo por el inmovilismo y creo firmemente que la evolu
 <img
   width={450}
   className="h-full rounded-lg object-cover object-center shadow-md flex-1 mx-auto"
-  src="/blog-images/champions/download-1.jpg"
+  src="/images/champions/download-1.jpg"
   />

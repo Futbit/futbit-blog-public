@@ -16,7 +16,7 @@ Hasta ahora, los dividendos se distribuían según la jornada de liga, lo que ge
 
  <img
   className="w-full rounded-lg"
-  src="/blog-images/nuevos-ciclos-dividendos-2.png"
+  src="/images/nuevos-ciclos-dividendos-2.png"
   alt="Comparativa antes y ahora"
   />
 
@@ -32,7 +32,7 @@ Con el nuevo sistema por ciclos:
 
  <img
   className="w-full rounded-lg"
-  src="/blog-images/nuevos-ciclos-dividendos-3.png"
+  src="/images/nuevos-ciclos-dividendos-3.png"
   alt="Ciclos en dividendos"
   />
 

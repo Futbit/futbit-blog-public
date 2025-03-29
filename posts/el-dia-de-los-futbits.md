@@ -11,7 +11,7 @@ tags: ["Futbit","tecnologías","introducción","conceptos"]
 
  <img
   className="w-full rounded-lg"
-  src="/blog-images/phone-invest.avif"
+  src="/images/phone-invest.avif"
   alt=""
   />
 

@@ -78,7 +78,7 @@ balones se ha dicho, al tal FUTBIT.
 
 <img
 className="h-full w-full rounded-lg object-cover object-center "
-src="/blog-images/blog_phone.png"
+src="/images/blog_phone.png"
 />
 
 FUTBIT es una App que aúna el deporte que nos apasiona más allá

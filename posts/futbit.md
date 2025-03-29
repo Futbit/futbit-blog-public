@@ -10,7 +10,7 @@ tags: ["Futbit", "introducción", "mercado bursátil", "aprender", "formación"]
 
 <img
 className="h-full w-full rounded-lg object-cover object-center "
-src="/blog-images/futbit/futbit-2.jpg"
+src="/images/futbit/futbit-2.jpg"
 />
 
 Futbit es una aplicación diseñada como puerta de acceso a la educación sobre el mercado bursátil. ¿La razón? Que cualquiera pueda empezar a invertir e ir abrazando los conceptos y mecanismos de esa herramienta que, aun estando al alcance de todos, pocos conocen su funcionamiento: La bolsa de valores, el mercado donde las empresas se exponen a la participación de cualquier inversor, por pequeño o grande que sea, y que requiere del dominio de conceptos y habilidades concretos.
@@ -19,7 +19,7 @@ Sin embargo, Futbit, quiere romper esa barrera y pone a disposición de cualquie
 
 <img
 className="h-full w-full rounded-lg object-cover object-center "
-src="/blog-images/futbit/futbit-1.jpg"
+src="/images/futbit/futbit-1.jpg"
 />
 
 ¿Apasionante? Sí, porque Futbit nace también de la pasión. La pasión por el fútbol y la creencia de que a través del deporte se puede llegar más fácil, antes y de manera entretenida a conocer y dominar las habilidades necesarias para invertir en el mercado bursátil de manera interactiva, mostrando los riesgos y también las posibilidades que ofrece dicho mercado. 
@@ -33,7 +33,7 @@ Futbit siempre ha querido desmarcarse, desde su concepción, de otras vías de i
 
 <img
 className="h-full w-full rounded-lg object-cover object-center "
-src="/blog-images/futbit/futbit-4.jpg"
+src="/images/futbit/futbit-4.jpg"
 />
 
 En esencia, Futbit es una nueva vía, un camino original que aúna la educación, la interactividad en un entorno de inversión similar al mercado de valores y las pinceladas necesarias de entretenimiento para que tu pasión por el fútbol vaya un paso más allá y se convierta en la herramienta definitiva para empezar a invertir.
@@ -42,5 +42,5 @@ Bienvenido al mundo de los inversores en Bolsa a través de un método claro, se
 
 <img
 className="h-full w-full rounded-lg object-cover object-center "
-src="/blog-images/futbit/futbit-3.jpg"
+src="/images/futbit/futbit-3.jpg"
 />
