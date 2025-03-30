@@ -1,21 +1,29 @@
 ---
+title: 'Mercado de invierno'
 
-title: "Mercado de invierno"
+subtitle: '¿Inversión o especulación?'
 
-subtitle: "¿Inversión o especulación?"
+date: '2026/03/04'
 
-date: "2026/03/04"
+excerpt: 'En la presente temporada 2024-2025 se ha inaugurado el nuevo formato de la Liga de Campeones de la UEFA, ¿acierto o error?'
 
-excerpt: "En la presente temporada 2024-2025 se ha inaugurado el nuevo formato de la Liga de Campeones de la UEFA, ¿acierto o error?"
+featuredImage: 'mercado-invierno/portada.png'
 
-featuredImage: "mercado-invierno/portada.png"
+imagePosition: 'center bottom'
 
-imagePosition: "center bottom"
+category: 'Aprender desaprendiendo'
 
-category: "Aprender desaprendiendo"
-
-tags: ["fichajes", "Futbit", "actualidad", "mercado", "inversión", "especulación", "formación", "riesgo"]
-
+tags:
+  [
+    'fichajes',
+    'Futbit',
+    'actualidad',
+    'mercado',
+    'inversión',
+    'especulación',
+    'formación',
+    'riesgo'
+  ]
 ---
 
 ## MERCADO DE INVIERNO, ¿INVERSIÓN O ESPECULACIÓN?
