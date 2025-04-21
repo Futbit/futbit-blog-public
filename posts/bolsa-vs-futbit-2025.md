@@ -24,8 +24,7 @@ En este contexto, invertir en acciones de empresas cotizadas o en fondos indexad
 
 Además, los nuevos inversores jóvenes —especialmente en España— están más dispuestos a explorar modelos innovadores que combinen pasión, entretenimiento y rentabilidad.
 <img
-  width={250}
-  className="h-full rounded-lg object-cover object-center shadow-md flex-1"
+  className="w-full rounded-lg"
   src="/images/lamine-growth.png"
   />
 
