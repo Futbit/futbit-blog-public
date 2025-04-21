@@ -23,12 +23,13 @@ A esto se suman factores como:
 En este contexto, invertir en acciones de empresas cotizadas o en fondos indexados resulta menos atractivo. La volatilidad de los mercados, los conflictos geopolíticos y la falta de acceso directo a oportunidades comprensibles alejan a nuevos inversores que buscan alternativas más cercanas, transparentes y conectadas con sus intereses.
 
 Además, los nuevos inversores jóvenes —especialmente en España— están más dispuestos a explorar modelos innovadores que combinen pasión, entretenimiento y rentabilidad.
+
+</div>
+
 <img
   className="w-full rounded-lg"
   src="/images/lamine-growth.png"
-  />
-
-</div>
+/>
 
 ## ¿Y si pudieras invertir en lo que más te gusta?
 
