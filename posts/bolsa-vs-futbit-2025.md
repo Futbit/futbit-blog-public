@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué Futbit puede ser una mejor inversión que la bolsa en 2025"
 date: "2025-04-21"
-excerpt: "A medida que avanzamos en 2025, el clima económico global se enfrenta a un nuevo ciclo de incertidumbre. 
+excerpt: "A medida que avanzamos en 2025, el clima económico global se enfrenta a un nuevo ciclo de incertidumbre."
 featuredImage: "tariffs-article.png"
 imagePosition: "center 80%"
 category: "El día de los Futbits"
