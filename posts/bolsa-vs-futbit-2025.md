@@ -3,7 +3,7 @@ title: "¿Por qué Futbit puede ser una mejor inversión que la bolsa en 2025"
 date: "2025-04-21"
 excerpt: "A medida que avanzamos en 2025, el clima económico global se enfrenta a un nuevo ciclo de incertidumbre."
 featuredImage: "tariffs-article.png"
-imagePosition: "center 80%"
+imagePosition: "center 100%"
 category: "El día de los Futbits"
 tags: ["Futbit", "bolsa", "aranceles", "inversión"]
 ---
@@ -18,13 +18,10 @@ A esto se suman factores como:
 
 ## El problema de las inversiones tradicionales
 
-<div class="md:flex gap-8">
-
 En este contexto, invertir en acciones de empresas cotizadas o en fondos indexados resulta menos atractivo. La volatilidad de los mercados, los conflictos geopolíticos y la falta de acceso directo a oportunidades comprensibles alejan a nuevos inversores que buscan alternativas más cercanas, transparentes y conectadas con sus intereses.
 
 Además, los nuevos inversores jóvenes —especialmente en España— están más dispuestos a explorar modelos innovadores que combinen pasión, entretenimiento y rentabilidad.
 
-</div>
 
 <img
   className="w-full rounded-lg"
@@ -33,7 +30,6 @@ Además, los nuevos inversores jóvenes —especialmente en España— están m�
 
 ## ¿Y si pudieras invertir en lo que más te gusta?
 
-<div class="md:flex gap-8">
 Ahí es donde entra Futbit, una plataforma española que te permite invertir en jugadores de fútbol como si fuesen activos financieros. Su funcionamiento está basado en oferta y demanda, rendimiento deportivo y eventos reales del mercado (como traspasos o lesiones), creando un modelo de inversión dinámico y 100% ligado a la realidad del fútbol.
 
 Lo que hace que Futbit sea especialmente atractivo hoy:
@@ -43,7 +39,6 @@ Lo que hace que Futbit sea especialmente atractivo hoy:
 - El conocimiento que ya tienes como aficionado al fútbol se convierte en ventaja competitiva.
 - Su crecimiento en usuarios e inversión real la posiciona como una plataforma con potencial de expansión global.
 
-</div>
 
 ## Conclusión
 
