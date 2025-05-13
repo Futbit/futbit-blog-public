@@ -3,6 +3,7 @@ title: "Lo que Warren Buffett nos enseñó sobre invertir (y cómo aplicarlo en 
 date: "2025-05-13"
 excerpt: "¿Qué tiene que ver la estrategia de Buffett con Futbit, una app de inversión basada en el rendimiento de futbolistas? Mucho más de lo que imaginas..."
 featuredImage: "warren-buffet.png"
+imagePosition: "center 10%"
 category: "El día de los Futbits"
 tags: ["Futbit", "bolsa", "warren buffet", "inversión"]
 ---
@@ -59,7 +60,8 @@ En Futbit puedes diversificar tus inversiones entr diferentes equipos y diferent
 ## En resumen
 Warren Buffett deja un legado basado en sentido común, análisis y visión a largo plazo. Su filosofía encaja perfectamente con la manera de usar Futbit como una plataforma de inversión seria, educativa y con potencial de crecimiento real.
 
-Invertir en fútbol no es solo una cuestión de pasión, sino también de estrategia. Y como diría el propio Buffett: 
+Invertir en fútbol no es solo una cuestión de pasión, sino también de estrategia. Y como diría el propio Buffett:
+
 > _El riesgo viene de no saber lo que estás haciendo._ 
 
 En Futbit, te ayudamos a invertir en lo que conoces, con herramientas, datos y funcionalidades para hacerlo bien.
