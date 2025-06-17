@@ -5,7 +5,7 @@ excerpt: "La temporada 2024/2025 de La Liga ha llegado a su fin, pero en Futbit 
 featuredImage: "futbit-eos-24.png"
 imagePosition: "center 10%"
 category: "Inside the Matrix"
-tags: ["Futbit", "final temporada", "novedades", "funcionalidad"]
+tags: ["Futbit", "final de temporada", "novedades", "funcionalidad", "FAQ"]
 ---
 
 La temporada 2024/2025 de La Liga ha llegado a su fin, pero en Futbit la emoción no para. Si bien muchos fantasy se apagan con el pitido final, en Futbit seguimos abiertos las 24h, los 365 días del año, ya que no somos un fantasy sino una inversión. En este post te contamos por qué ahora más que nunca vale la pena mantener tus acciones y seguir atento a lo que viene.
