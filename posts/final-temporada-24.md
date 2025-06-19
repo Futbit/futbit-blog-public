@@ -1,9 +1,9 @@
 ---
 title: "Fin de Temporada: ¿Y ahora qué pasa en Futbit?"
-date: "2025-06-18"
+date: "2025-06-19"
 excerpt: "La temporada 2024/2025 de La Liga ha llegado a su fin, pero en Futbit la emoción no para..."
 featuredImage: "futbit-eos-24.png"
-imagePosition: "center 10%"
+imagePosition: "center 25%"
 category: "Inside the Matrix"
 tags: ["Futbit", "final de temporada", "novedades", "funcionalidad", "FAQ"]
 ---
@@ -33,7 +33,7 @@ Así que si estás pensando en vender… ¡igual es mejor mantener y multiplicar
 Ahora puedes ver en directo cómo evoluciona tu cartera mientras los jugadores están en el campo. Los dividendos se actualizan en tiempo real, y puedes comparar tu rendimiento partido a partido. Además, también puedes revisar los dividendos generados en partidos pasados, lo que te ayuda a analizar decisiones de inversión y mejorar tu estrategia.
 
 ### 🌍 Mundial de Clubes 2025: ¡más partidos, más impacto!
-Desde este fin de semana, los partidos del Mundial de Clubes 2025 afectarán al valor de mercado de los jugadores. Esto añade una capa extra de estrategia: jugadores que no estaban en la mira durante la liga pueden ahora convertirse en oportunidades clave.
+Los partidos del Mundial de Clubes 2025 afectarán al valor de mercado de los jugadores. Esto añade una capa extra de estrategia: jugadores que no estaban en la mira durante la liga pueden ahora convertirse en oportunidades clave.
 
 👉 Importante: Estos partidos no generan dividendos, pero sí influyen en el precio. Ideal para hacer movimientos tácticos o mantener acciones con potencial.
 
