@@ -3,7 +3,7 @@ title: "Comparativa de apps fantasy fútbol"
 date: "2025-08-13"
 excerpt: "¿Eres un apasionado del fútbol y te encanta jugar a ser mánager de tu propio equipo? Hoy en día hay varias aplicaciones de fantasy fútbol en España que llevan esa emoción a otro nivel."
 featuredImage: "comparativa-apps-futbol/hero.png"
-imagePosition: "center 27%"
+imagePosition: "center 40%"
 category: "El Día de los Futbits"
 tags: ["Futbit", "apps", "comparativa", "fantasy", "manager", "análisis"]
 ---
@@ -15,8 +15,8 @@ tags: ["Futbit", "apps", "comparativa", "fantasy", "manager", "análisis"]
 
 <img
     className="w-full rounded-lg"
-    src="/images/comparativa-apps-futbol/laligafantasy-logo.png"
-    style={{ height: "500px", width: "auto" }}
+    src="/images/comparativa-apps-futbol/laligafantasy-logo.webp"
+    style={{ height: "250px", width: "auto" }}
 />
 
 LaLiga Fantasy es la aplicación oficial de la liga española, lanzada en 2016 de la mano de LaLiga. Es un fantasy clásico: creas tu equipo fichando jugadores reales de LaLiga Santander, compites en ligas (privadas con amigos o públicas) y sumas puntos según el rendimiento de tus futbolistas cada jornada. La app se nutre de datos oficiales (proporcionados por Opta) para puntuar acciones como goles, asistencias, tarjetas, paradas, etc., todo en tiempo real. La experiencia es muy accesible para cualquier aficionado: interfaz sencilla, alineaciones jornada a jornada y una gran comunidad de usuarios siguiendo la competición.
@@ -30,8 +30,8 @@ En resumen, LaLiga Fantasy es ideal para fans casuales de LaLiga que quieren viv
 
 <img
     className="w-full rounded-lg"
-    src="/images/comparativa-apps-futbol/biwenger-logo.png"
-    style={{ height: "500px", width: "auto" }}
+    src="/images/comparativa-apps-futbol/biwenger-logo.jpg"
+    style={{ height: "250px", width: "auto" }}
 />
 
 Biwenger es la joya nacional de los fantasy managers. Nació de la comunidad futbolera española y hoy presume de ser el fantasy más jugado en España, con más de 2,5 millones de usuarios. De hecho, Biwenger es la plataforma que Diario AS y otros medios deportivos utilizan para sus ligas oficiales de fantasy. Su éxito se basa en la flexibilidad y profundidad: puedes personalizar prácticamente todo en tu liga. ¿Que prefieres puntuaciones con las “picas” del Diario AS o con estadísticas puras de SofaScore? En Biwenger tú eliges el sistema de puntuación. ¿Que quieres añadir cláusulas de rescisión, hacer un draft inicial, tener mercado continuo o subastas diarias? Lo tienes. ¿Liga de Champions, Premier, Segunda División, incluso NBA o Euroliga? También las hay (hasta 11 competiciones distintas disponibles). Biwenger es como un sandbox para los frikis del fantasy.
@@ -45,7 +45,7 @@ La aplicación es gratuita y se sustenta con publicidad y funcionalidades premiu
 <img
     className="w-full rounded-lg"
     src="/images/comparativa-apps-futbol/sorare-logo.png"
-    style={{ height: "500px", width: "auto" }}
+    style={{ height: "250px", width: "auto" }}
 />
 
 Sorare es el nombre que revolucionó el fantasy fútbol mundial introduciendo los NFTs en la ecuación. Esta plataforma francesa (activa desde 2019) combina el fantasy tradicional con el coleccionismo digital de cromos de jugadores. En Sorare, en vez de fichar jugadores en un mercado virtual ilimitado, coleccionas cartas digitales únicas de futbolistas de todo el mundo (Liga española, pero también Premier, Bundesliga, ligas americanas, etc.). Cada carta es un token NFT en la blockchain de Ethereum, con ediciones limitadas (cartas únicas, súper raras, raras…) que tienen propiedad auténtica por parte del usuario. Puedes alinear a tus cartas (jugadores) en torneos semanales de fantasy; sus puntuaciones se basan en el rendimiento real igual que otros fantasy, y según cómo quede tu equipo, puedes ganar recompensas (que suelen ser más cartas, desde comunes hasta raras, e incluso premios en dinero o criptomoneda en ciertas competiciones).
@@ -59,7 +59,7 @@ Sorare es una opción fantástica para quien disfrute tanto del fantasy como del
 <img
     className="w-full rounded-lg"
     src="/images/comparativa-apps-futbol/futbit-logo.png"
-    style={{ height: "500px", width: "auto" }}
+    style={{ height: "250px", width: "auto" }}
 />
 
 Futbit es la nueva generación de juegos de fútbol fantasy, una app española que lleva la experiencia a un terreno muy real: el de la inversión financiera. Aquí no juegas solo por puntos o trofeos virtuales, juegas con dinero real (sí, has leído bien). Futbit se define como la primera “bolsa de futbolistas”: te permite comprar y vender acciones de jugadores de fútbol de la vida real. En lugar de gestionar una alineación que puntúa por jornada, en Futbit tú inviertes en jugadores individuales con euros, como si fueran empresas en la bolsa. Cada futbolista tiene un precio por acción, y los precios suben o bajan según la oferta y la demanda de los usuarios (y según cómo rinda el jugador en la temporada). Así, si confías en una joven promesa o en un crack infravalorado, puedes “meterle dinero” comprando acciones; si luego ese jugador se pone de moda, muchos querrán comprarlo y tú podrías vender con ganancias.
@@ -74,13 +74,47 @@ Futbit es la evolución para los usuarios con mentalidad estratégica. Está pen
 
 Para cerrar, aquí tienes una tabla resumen con las principales diferencias entre LaLiga Fantasy, Biwenger, Sorare y Futbit:
 
-| Característica                | **LaLiga Fantasy** (Oficial)                                                                                                  | **Biwenger** (Community)                                                                                                                                                                         | **Sorare** (Global NFT)                                                                                                                                                             | **Futbit** (Bolsa de fútbol)                                                                                                                                                                               |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tipo de juego**             | Fantasy manager tradicional de LaLiga (alineas equipo y sumas puntos por jornada).                                            | Fantasy manager personalizable con múltiples ligas y reglas (ligas privadas, distintos sistemas de puntuación).                                                                                  | Fantasy global con **cromos NFT** de jugadores reales (coleccionas cartas digitales y compites con ellas).                                                                          | *Inversión* de jugadores: compras y vendes **acciones** de futbolistas con dinero real (simulación de mercado bursátil).                                                                                     |
-| **¿Dinero real involucrado?** | **No.** Juego 100% gratuito (ingresos vía publicidad y *premium*, sin apuestas).                                              | **No.** Gratuito (con opción *premium*; el dinero es virtual para fichajes, no euros reales).                                                                                                    | **Parcialmente.** Puedes jugar gratis, pero para competir en serio necesitas comprar cartas NFT (con dinero real); las cartas luego se pueden revender por dinero.                  | **Sí.** Es una plataforma de **inversión**: depositas euros y compras acciones de jugadores; posibilidad de **ganancias/pérdidas reales** según mercado (sin garantía).                                    |
-| **Ventajas destacadas**       | Oficialidad LaLiga (datos Opta, ambiente 100% liga española); muy fácil de usar; gran comunidad local; premios promocionales. | Extremadamente completo y estable; múltiples competiciones (Liga, Champions, NBA, etc.) en una sola app; opciones avanzadas (cláusulas, cesiones, draft…); ideal para ligas de amigos dedicadas. | Innovador y *coleccionable*; jugadores de todo el mundo disponibles; realmente eres dueño de tus jugadores (NFT únicos); posibilidad de valorizar tus cartas en el mercado abierto. | Concepto único y **emocionante**; convierte tu conocimiento en inversión; aprendizaje financiero práctico; la emoción de seguir el fútbol con dinero en juego (dividendo por goles, revalorización, etc.). |
-| **Perfil de usuario ideal**   | Aficionados **casuales** de LaLiga que buscan diversión sencilla, oficial y sin complicaciones ni riesgos económicos.         | Fans **hardcore** del fantasy que quieren máxima personalización y competir seriamente con amigos o en rankings masivos.                                                                         | Aficionados **tech/coleccionista** dispuestos a invertir tiempo (y algo de dinero) en un fantasy diferente, global y con recompensas únicas (NFT, cripto).                          | Usuarios con **mentalidad estratégica** e **inversora** que buscan llevar su pasión futbolística al siguiente nivel; ideal si te atrae la bolsa y el fútbol a partes iguales.                              |
-
+<table>
+  <thead>
+    <tr>
+      <th>Característica</th>
+      <th><strong>LaLiga Fantasy</strong> (Oficial)</th>
+      <th><strong>Biwenger</strong> (Community)</th>
+      <th><strong>Sorare</strong> (Global NFT)</th>
+      <th><strong>Futbit</strong> (Bolsa de fútbol)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Tipo de juego</strong></td>
+      <td>Fantasy manager tradicional de LaLiga (alineas equipo y sumas puntos por jornada).</td>
+      <td>Fantasy manager personalizable con múltiples ligas y reglas (ligas privadas, distintos sistemas de puntuación).</td>
+      <td>Fantasy global con <strong>cromos NFT</strong> de jugadores reales (coleccionas cartas digitales y compites con ellas).</td>
+      <td><em>Inversión</em> de jugadores: compras y vendes <strong>acciones</strong> de futbolistas con dinero real (simulación de mercado bursátil).</td>
+    </tr>
+    <tr>
+      <td><strong>¿Dinero real involucrado?</strong></td>
+      <td><strong>No.</strong> Juego 100% gratuito (ingresos vía publicidad y <em>premium</em>, sin apuestas).</td>
+      <td><strong>No.</strong> Gratuito (con opción <em>premium</em>; el dinero es virtual para fichajes, no euros reales).</td>
+      <td><strong>Parcialmente.</strong> Puedes jugar gratis, pero para competir en serio necesitas comprar cartas NFT (con dinero real); las cartas luego se pueden revender por dinero.</td>
+      <td><strong>Sí.</strong> Es una plataforma de <strong>inversión</strong>: depositas euros y compras acciones de jugadores; posibilidad de <strong>ganancias/pérdidas reales</strong> según mercado (sin garantía).</td>
+    </tr>
+    <tr>
+      <td><strong>Ventajas destacadas</strong></td>
+      <td>Oficialidad LaLiga (datos Opta, ambiente 100% liga española); muy fácil de usar; gran comunidad local; premios promocionales.</td>
+      <td>Extremadamente completo y estable; múltiples competiciones (Liga, Champions, NBA, etc.) en una sola app; opciones avanzadas (cláusulas, cesiones, draft…); ideal para ligas de amigos dedicadas.</td>
+      <td>Innovador y <em>coleccionable</em>; jugadores de todo el mundo disponibles; realmente eres dueño de tus jugadores (NFT únicos); posibilidad de valorizar tus cartas en el mercado abierto.</td>
+      <td>Concepto único y <strong>emocionante</strong>; convierte tu conocimiento en inversión; aprendizaje financiero práctico; la emoción de seguir el fútbol con dinero en juego (dividendo por goles, revalorización, etc.).</td>
+    </tr>
+    <tr>
+      <td><strong>Perfil de usuario ideal</strong></td>
+      <td>Aficionados <strong>casuales</strong> de LaLiga que buscan diversión sencilla, oficial y sin complicaciones ni riesgos económicos.</td>
+      <td>Fans <strong>hardcore</strong> del fantasy que quieren máxima personalización y competir seriamente con amigos o en rankings masivos.</td>
+      <td>Aficionados <strong>tech/coleccionista</strong> dispuestos a invertir tiempo (y algo de dinero) en un fantasy diferente, global y con recompensas únicas (NFT, cripto).</td>
+      <td>Usuarios con <strong>mentalidad estratégica</strong> e <strong>inversora</strong> que buscan llevar su pasión futbolística al siguiente nivel; ideal si te atrae la bolsa y el fútbol a partes iguales.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Conclusión
 
